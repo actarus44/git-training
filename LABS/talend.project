@@ -189,7 +189,6 @@
     <migrationTask xmi:id="_fg8dRQHdEeisWLX6xfP60Q" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_fg8dRgHdEeisWLX6xfP60Q" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_fg8dRwHdEeisWLX6xfP60Q" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_fg8dSAHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_fg8dSQHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_fg8dSgHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_fg8dSwHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -415,6 +414,7 @@
     <migrationTask xmi:id="_fg8eJwHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.AddFailOnErrorOnTFileCopyTDI38441" breaks="6.3.1" version="6.4.0" status="noimpact"/>
     <migrationTask xmi:id="_fg8eKAHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.SetSparkDataframeAlphabeticalSortOrder" breaks="6.1.0" version="6.1.0" status="noimpact"/>
     <migrationTask xmi:id="_fg8eKQHdEeisWLX6xfP60Q" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_4VUWQAgXEeij5p1kDhnG1A" id="org.talend.repository.model.migration.AddProductValuesItemMigrationTask" breaks="6.5.0" version="6.5.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_epXUwgHdEeisWLX6xfP60Q" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_e0-u4AHdEeisWLX6xfP60Q" login="git@company.com" firstName="GIT" lastName="User" type="MDM" additionnalData="{}"/>
